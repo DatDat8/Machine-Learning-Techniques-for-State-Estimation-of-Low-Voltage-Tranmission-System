@@ -14,8 +14,9 @@ There are multiple benefits resulting from this technique:
 This is my thesis project for the final year of my Master's Degree at the University Paris-Saclay. It paves the way for the publication of the article entitled "PERFORMANCE EVALUATION OF AN AUTOENCODER STATE ESTIMATOR WITH REALISTIC LOW VOLTAGE GRIDS RECONSTRUCTED FROM OPEN DATA" at the CIRED 2023 conference taking place on the 15th of June in Rome, Italy. 
 
 For more information, please take a look at the selected list of papers: https://www.cired2023.org/wp-content/uploads/2023/05/2023_full_papers_selected_list.pdf 
+
 Due to the copyright and confidentiality of the research program and the hosted organization, the detailed implementation of my work was forced to be kept obscured.
-Instead, my thesis and the published paper in CIRED 2023 were uploaded for your further view.
+Instead, my thesis and the published paper in CIRED 2023 were uploaded for your further viewing.
 
 Many thanks and best wishes!
 
