@@ -16,7 +16,7 @@ This is my thesis project for the final year of my Master's Degree at the Univer
 For more information, please take a look at the selected list of papers: https://www.cired2023.org/wp-content/uploads/2023/05/2023_full_papers_selected_list.pdf 
 
 Due to the copyright and confidentiality of the research program and the hosted organization, the detailed implementation of my work was forced to be kept obscured.
-Instead, my thesis and the published paper in CIRED 2023 were uploaded for your further viewing.
+Instead, my thesis and the published paper in CIRED 2023 were uploaded for your further viewing: https://centralesupelec.hal.science/hal-04198569
 
 Many thanks and best wishes!
 
